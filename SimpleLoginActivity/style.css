@@ -1,0 +1,56 @@
+.container {
+    background-color: #FFFFFF;
+    font-family: Arial;
+
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 200px;
+
+    padding: 20px;
+}
+
+input {
+    text-align: center;
+}
+
+.text1 {
+    text-align: left;
+    font-size: 18px;
+    
+    margin-top: 20px;
+}
+
+.logintextfield {
+    width: 100%;
+    text-align: left;
+}
+
+.loginbutton {
+    padding-inline: 50px;
+    color: #FFFFFF;
+    background-color: rgb(59, 146, 253);
+}
+
+.logoutbutton {
+    padding-inline: 50px;
+    color:#FFFFFF;
+    background-color: rgb(190, 60, 60);
+}
+
+.table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: black;
+    color: #ffffff;
+}
+
+th, td{
+    border: 1px solid black;
+
+    padding: 1%;
+}
